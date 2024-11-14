@@ -1,0 +1,14 @@
+@media (max-width: 340px) {
+  .img-container {
+    height: 200px;
+  }
+  .description {
+    width: 170px;
+  }
+  h1 {
+    font-size: 1rem;
+  }
+  p {
+    font-size: 0.8rem;
+  }
+}
